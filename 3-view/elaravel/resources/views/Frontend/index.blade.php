@@ -1,0 +1,1 @@
+<h1>Frontend Klasörü Index VIEW</h1>
